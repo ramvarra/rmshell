@@ -1,3 +1,4 @@
+''' Remote Shell Server '''
 import os
 import sys
 

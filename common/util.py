@@ -1,3 +1,5 @@
-def version() -> str:
-    return "1.0"
+'''Common utility'''
 
+def version() -> str:
+    '''get version'''
+    return "1.0"
