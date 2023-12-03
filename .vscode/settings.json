@@ -1,0 +1,10 @@
+{
+    "terminal.integrated.localEchoStyle": "dim",
+    "terminal.integrated.env.windows": {
+        "PYTHONPATH": "${workspaceFolder}"
+    },
+    "terminal.integrated.env.linux": {
+        "PYTHONPATH": "${workspaceFolder}"
+    },
+    "terminal.integrated.defaultProfile.osx": ""
+}
